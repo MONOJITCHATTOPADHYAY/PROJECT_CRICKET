@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(118, 219, 118);
+    border-radius:100px;
+    cursor: pointer;
+}
+
+.image{
+    height:75px;
+}
+
+.reset_button{
+    background-color: rgb(128, 140, 215);
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+}
+
+.reset_button:hover{
+    height: 40px;
+    width: 90px;
+}
+
+.reset_button:active{
+    background-color: red;
+}
+
+
+h3{
+    margin: 10px ;
+}
+
+.button:hover{
+    background-color: bisque;
+    height: 110px;
+    width: 110px;
+}
+
+.button:active{
+    background-color: red;
+}
